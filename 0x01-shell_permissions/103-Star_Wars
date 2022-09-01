@@ -1,2 +1,2 @@
 #!/bin/bash
-mpv StarWars IV episode
+mplayer -vo -caca 103-Star_Wars IV episode.mp4
